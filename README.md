@@ -1,0 +1,2 @@
+# sqlserverPracticeSet
+query practing
